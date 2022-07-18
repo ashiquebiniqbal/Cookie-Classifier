@@ -1,2 +1,2 @@
 # Cookie-Classifier
-Bakery cookie classifier usinf Scikit- Learn
+Bakery cookie classifier using Scikit- Learn
